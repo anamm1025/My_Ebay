@@ -1,0 +1,16 @@
+﻿.commentItem
+{
+    cursor : pointer;
+}
+
+.commentText
+{
+    margin-left : 20px;
+    margin-right : 20px;
+}
+
+.qOwner
+{
+    margin-top : -10px;
+    color : #447565;
+}

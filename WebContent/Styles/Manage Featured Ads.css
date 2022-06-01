@@ -1,0 +1,56 @@
+﻿.featuredAdManagerTable
+{
+    width : inherit;
+    font-size : 100%;
+}
+
+.featuredAdManagerTable th
+{
+    text-align : center;
+    font-size : 75%;
+}
+
+.featuredAdManagerTable td,.featuredAdManagerTable th
+{
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+}
+
+.featuredAdManagerTable tr.itemQuantity
+{
+    font-size : 65%;
+}
+
+.featuredAdManagerTable .defPriceTabCol
+{
+    width : 10%;
+    text-align : center;
+}
+
+.featuredAdManagerTable .itNameCol
+{
+    width : 25%;
+    text-align : center;
+}
+
+.featuredAdManagerTable .subCatCol
+{
+    text-align : center;
+    width : 15%;
+}
+
+.featuredAdManagerTable .catCol
+{
+    width : 15%;
+    text-align : center;
+}
+
+.featuredAdManagerTable .imgCol
+{
+    text-align : center;
+}
+
+.featuredAdManagerTable .interCol
+{
+    text-align : center;
+}

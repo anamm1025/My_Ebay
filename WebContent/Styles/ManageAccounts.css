@@ -1,0 +1,52 @@
+﻿.manageAccountsTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.manageAccountsTable th
+{
+    text-align : center;
+    font-size : 75%;
+}
+
+.manageAccountsTable td,.manageAccountsTable th
+{
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+}
+
+.manageAccountsTable tr.itemQuantity
+{
+    font-size : 65%;
+}
+
+.manageAccountsTable .userName
+{
+    width : 20%;
+    text-align : center;
+}
+
+.manageAccountsTable .uid
+{
+    width : 20%;
+    text-align : center;
+}
+
+.manageAccountsTable .contactN
+{
+    text-align : center;
+    width : 15%;
+}
+
+.manageAccountsTable .accT
+{
+    width : 20%;
+    text-align : center;
+}
+
+.manageAccountsTable .interCol
+{
+    text-align : center;
+    width : 25%;
+}

@@ -1,0 +1,61 @@
+﻿.manageCatTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.profileContent th
+{
+    text-align : center;
+    font-size : 75%;
+}
+
+.profileContent td,.profileContent th
+{
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+}
+
+.profileContent tr.itemQuantity
+{
+    font-size : 65%;
+}
+
+.manageCatTable .catNameCol
+{
+    width : 80%;
+    text-align : center;
+}
+
+/*.manageCatTable .newCatNameCol
+{
+    width : 35%;
+    text-align : center;
+}*/
+
+.manageCatTable .interCol
+{
+    width : 20%;
+    text-align : center;
+}
+
+.catDisplayTable
+{
+    width : 100%;
+    font-size : 100%; 
+}
+
+.catDisplayTable .slotNum
+{
+    width : 50%;
+}
+
+.catDisplayTable .value
+{
+    width : 50%;
+}
+
+.catDisplayTable .dropDownList
+{
+    width : 60%;
+}

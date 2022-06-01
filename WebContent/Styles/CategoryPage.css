@@ -1,0 +1,74 @@
+﻿#subCategoryItemsViewContainer
+{
+    margin-top : 30px;
+    width : 100%;
+}
+
+#subCategoryItemsViewContainer table tr td
+{
+    vertical-align : top;
+}
+
+#filterPanelCol
+{
+    width : 30%;
+    padding : 0px;
+    vertical-align : top;
+    border-width : 2px;
+    border-style : solid;
+}
+
+#filterPanelCol .inputTextBox
+{
+    width : 30%;
+}
+
+.filterItem .containerContentVal
+{
+    list-style-type : none;
+}
+
+.filterItem
+{
+    list-style-type : none;
+}
+
+.checkBox
+{
+    width : 100%;
+}
+
+.filterValues .inputTextBox
+{
+    width : 20%;
+}
+
+.catItemsCol
+{
+    vertical-align : top;
+    border-width : 2px;
+    border-style : solid;
+    width : 70%;
+}
+
+.catItemsColContent
+{
+    padding : 30px;
+}
+
+.containerContentDescriber b:hover
+{
+    cursor : pointer;
+    color : #937c7c;
+}
+
+.navigationPanel
+{
+    text-align : left;
+    margin-top : 10px;
+}
+
+.navigationPanel .dropDownList
+{
+    width : 25%;
+}

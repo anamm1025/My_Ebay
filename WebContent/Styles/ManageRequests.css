@@ -1,0 +1,75 @@
+﻿.reqTable
+{
+    width : inherit;
+    font-size : 100%;
+}
+
+.reqTable a
+{
+    color : inherit;
+    text-decoration : underline;
+}
+
+.reqTable th
+{
+    text-align : center;
+    font-size : 75%;
+}
+
+.reqTable td,.reqTable th
+{
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+}
+
+.reqTable tr.itemQuantity
+{
+    font-size : 65%;
+}
+
+.reqTable .reqIdCol
+{
+    width : 5%;
+    text-align : center;
+}
+
+.reqTable .uidCol
+{
+    width : 15%;
+}
+
+.reqTable .statusCol
+{
+    text-align : center;
+    width : 8%;
+}
+
+.reqTable .dateCol
+{
+    width : 9%;
+    text-align : center;
+}
+
+.reqTable .urlCol
+{
+    width : 15%;
+    text-align : center;
+}
+
+.reqTable .interCol
+{
+    width : 20%;
+    text-align : center;
+}
+
+.reqTable .itNameCol
+{
+    width : 15%;
+    text-align : center;
+}
+
+.reqTable .brandNameCol
+{
+    width : 10%;
+    text-align : center;
+}

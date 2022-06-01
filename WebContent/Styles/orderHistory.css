@@ -1,0 +1,57 @@
+﻿.orderTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.orderTable th
+{
+    text-align : center;
+    font-size : 75%;
+}
+
+.orderTable td,.orderTable th
+{
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+}
+
+.orderTable tr.itemQuantity
+{
+    font-size : 65%;
+}
+
+.orderTable .ordNo
+{
+    width : 5%;
+    text-align : center;
+}
+
+.orderTable .addr
+{
+    width : 25%;
+}
+
+.orderTable .status
+{
+    text-align : center;
+    width : 10%;
+}
+
+.orderTable .date
+{
+    width : 15%;
+    text-align : center;
+}
+
+.orderTable .amount
+{
+    width : 10%;
+    text-align : center;
+}
+
+.orderTable .inter
+{
+    width : 20%;
+    text-align : center;
+}

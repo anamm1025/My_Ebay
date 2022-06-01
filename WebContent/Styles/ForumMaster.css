@@ -1,0 +1,24 @@
+﻿.forumInteraction
+{
+    background : linear-gradient(#b7b0b0,#6c6767);
+    background : -o-linear-gradient(#b7b0b0,#6c6767);
+    background : -moz-linear-gradient(#b7b0b0,#6c6767);
+    background : -webkit-linear-gradient(#b7b0b0,#6c6767);
+    border : 1px black solid;
+    border-radius : 7px;
+    padding : 20px;
+    margin-bottom : 20px;
+}
+
+.forumInteraction .curLoc
+{
+    width : 40%;
+    float : left;
+}
+
+.forumButtonsContainer
+{
+    float : right;
+    width :55%;
+    text-align : right;
+}

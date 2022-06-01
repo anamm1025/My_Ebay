@@ -1,0 +1,180 @@
+﻿.inputTable .itemQuantity
+{
+    font-size : 90%;
+}
+
+img
+{
+    display : block;
+    margin-bottom : 10px;
+}
+
+img.image.itemImg
+{
+    float : none;
+}
+
+.itemAdditionalImgContainer
+{
+    width : 100%;
+}
+
+.itemAdditionalImg
+{
+    width : 22%;
+    float : left;
+    text-align : center;
+    margin-bottom : 20px;
+}
+.itemAdditionalImg img
+{
+    margin-left : auto;
+    margin-right : auto;
+}
+
+.addFeatureTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.profileContent th,.profileContent th.featureVal
+{
+    text-align : center;
+    font-size : 75%;
+}
+
+.profileContent td
+{
+    padding-left : 10px;
+    padding-right : 10px;
+    text-align : center;
+}
+
+.profileContent td,.profileContent th
+{
+    border-right : 1px solid black;
+    border-bottom : 1px solid black;
+}
+
+.profileContent tr.itemQuantity
+{
+    font-size : 65%;
+}
+
+.addFeatureTable .featureVal
+{
+    width : 80%;
+    text-align : left;
+}
+
+.featureVal .inputTextBox
+{
+    width : 80%;
+}
+
+.addFeatureTable .interCol
+{
+    width : 20%;
+}
+
+.specNameTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.specNameTable .interCol,specNameTable .specName
+{
+    width : 15%;
+}
+
+.specNameTable .specValCol
+{
+    width : 70%;
+    padding : 0px;
+}
+
+.specValTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.specValTable .specVal
+{
+    width : 70%;
+}
+
+..specValTable .interCol
+{
+    width : 30%;
+}
+
+.specValTable td:last-child
+{
+    border-right : none;
+}
+
+.specValTable tr:not(:last-child) td:first-child
+{
+    text-align : left;
+}
+
+.specValTable .inputTextBox
+{
+    width : 80%;
+}
+
+.addFilterTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.addFilterTable .interCol,addFilterTable .filtName,.addFilterTable .filtUnit
+{
+    width : 15%;
+}
+
+.addFilterTable .filterValCol
+{
+    width : 55%;
+    padding : 0px;
+}
+
+.filterValTable
+{
+    width : 100%;
+    font-size : 100%;
+}
+
+.addFilterTable .dropDownList
+{
+    width : 80%;
+}
+
+.filterValTable .filterVal
+{
+    width : 70%;
+}
+
+.filterValTable .interCol
+{
+    width : 30%;
+}
+
+.filterValTable td:last-child
+{
+    border-right : none;
+}
+
+.filterValTable tr:not(:last-child) td:first-child
+{
+    text-align : left;
+}
+
+.filterValTable .inputTextBox
+{
+    width : 80%;
+}

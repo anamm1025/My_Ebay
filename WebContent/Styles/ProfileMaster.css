@@ -1,0 +1,103 @@
+﻿#profTable              /*Profile table*/
+{
+    width : 100%;
+}
+
+#profTable>td:nth-child(2)
+{
+    width : 80%;
+}
+
+.userPanel {
+    vertical-align: top;
+    background: -webkit-linear-gradient(left,#818181,#CACED1);
+    background: -moz-linear-gradient(left,#818181,#CACED1);
+    background: -o-linear-gradient(left,#818181,#CACED1);
+    background: linear-gradient(left,#818181,#CACED1);
+    border-right: 1px solid #746c6c;
+    width: 20%;
+}
+
+.userPanel a                  /*div in .userPanel(td)*/
+{
+    display : block;
+    font-size: 110%;
+    padding-top: 5px;
+    padding-left: 15%;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+    color: #184852;
+}
+
+#userContent             /*td containing userContentDiv*/
+{
+    vertical-align : top;
+    min-height: 500px;
+}
+
+#userContentDiv         /*Contains selected profile table header and information*/
+{
+    margin : 30px;
+}
+
+.userPanel a.selectedProfElem,.userPanel a:hover     /*Stlye for selectedProfileTable*/
+{
+    background-color: black;
+    cursor : pointer;
+    color: #005E9C;
+}
+
+.profileContentContainer
+{
+    background : -webkit-linear-gradient(#FFF,#8D8181);
+    background: -webkit-linear-gradient(#FFF,#8D8181);
+    border: 2px solid #000;
+    margin-bottom : 10px;
+    margin-top : 10px;
+}
+
+#profFilters,.profFilters
+{
+    text-align : right;
+}
+
+#userContentDiv .containerContentDescriber
+{
+    text-align : center;
+}
+
+tr.itemQuantity .inputTextBox:not(.inputTextBoxMultiline)
+{
+    height : 10px;
+}
+
+tr.itemQuantity .imgButtonsContainer
+{
+    vertical-align : middle;
+    max-height : 15px;
+    max-width :  15px;
+    min-height : 15px;
+    min-width : 15px;
+}
+
+tr.itemQuantity .imgButtonsContainer .imgButtons
+{
+    max-height : inherit;
+    max-width : inherit;
+}
+
+table .inputTextBox
+{
+    width : 80%;
+}
+
+table
+{
+    table-layout : fixed;
+}
+
+td
+{
+    word-wrap : break-word;
+}

@@ -1,0 +1,20 @@
+﻿.notificationMessage
+{
+    cursor : pointer;
+}
+
+.noNotification p
+{
+    margin : 0px;
+}
+
+.unseenNotifcation
+{
+    font-weight : bold;
+    margin-bottom : 10px;
+}
+
+.seenNotifcation
+{
+    margin-bottom : 10px;
+}

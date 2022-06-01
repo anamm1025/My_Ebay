@@ -1,0 +1,75 @@
+﻿.inputTable .itDetail
+{
+    width : 60%;
+}
+
+.inputTable td.itDetail
+{
+    text-align : left;
+}
+
+.inputTable .price
+{
+    width : 7%;
+}
+
+.inputTable .quanAvail
+{
+    width : 7%;
+}
+
+.inputTable .unitOrdered
+{
+    width : 7%;
+}
+
+.inputTable .total
+{
+    width : 7%;
+}
+
+.inputTable .itemName
+{
+    margin-top : 0px;
+    font-size : 100%;
+}
+
+.inputTable .itemSmallOverview
+{
+    font-size : 80%;
+}
+
+.inputTable .itemPrice
+{
+    font-size : 80%;
+}
+
+..inputTable .containerContentDescriber
+{
+    font-size : 90%;
+}
+
+.inputTable td
+{
+    text-align : center;
+    position : relative;
+}
+
+.inputTable .itemInteractionButton
+{
+    position : absolute;
+    top : 5px;
+    right : 10px;
+}
+
+.cartGrand
+{
+    text-align : right;
+    font-size : 110%;
+}
+
+.formContainer .inputTable tr td
+{
+    padding-top : 20px;
+    border-bottom : 1px solid black;
+}

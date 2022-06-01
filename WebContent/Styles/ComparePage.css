@@ -1,0 +1,89 @@
+﻿.compareTable
+{
+    width : 100%;
+    box-sizing : border-box;
+    font-weight : bold;
+}
+
+.compareTable td,.compareTable th
+{
+    width : 20%;
+    min-width : 150px;
+    text-wrap : normal;
+    position : relative;
+    padding-left : 10px;
+    padding-right : 10px;
+    padding-top : 10px;
+}
+
+.compPrice td,.compRem td,.compBrand td,.compHeader td
+{
+    text-align : center;
+}
+
+.compPrice td:first-child,.compBrand td:first-child,.compHeader td:first-child
+{
+    text-align : left;
+}
+
+.compareTable tr td:first-child
+{
+    padding-left : 20px;
+}
+
+ul
+{
+    margin-top : 0px;
+}
+
+.compOverview,.compRem,.compBrand
+{
+    background : #C1C3C3;
+    /*background : -webkit-linear-gradient(left,#C5C5C5,#BDBCBC);
+    background : linear-gradient(left,#C5C5C5,#BDBCBC);
+    background : -moz-linear-gradient(left,#C5C5C5,#BDBCBC);
+    background : -o-linear-gradient(left,#C5C5C5,#BDBCBC);*/
+}
+
+.compOverview td
+{
+    white-space : pre;
+}
+
+.compSpecifications:nth-child(odd)
+{
+    background :#B9B9B9 ;
+    /*background : -webkit-linear-gradient(left,#C5C5C5,#BDBCBC);
+    background : linear-gradient(left,#C5C5C5,#BDBCBC);
+    background : -moz-linear-gradient(left,#C5C5C5,#BDBCBC);
+    background : -o-linear-gradient(left,#C5C5C5,#BDBCBC);*/
+}
+
+.compSpecifications:nth-child(even)
+{
+    background : #C1C3C3;
+}
+
+.compHeader,.compImages,.compPrice,.compFeatures
+{
+    background :#B9B9B9 ;
+    /*background : -webkit-linear-gradient(left,#E6DDDD,#D6D3D3);
+    background : linear-gradient(left,#E6DDDD,#D6D3D3);
+    background : -moz-linear-gradient(left,#E6DDDD,#D6D3D3);
+    background : -o-linear-gradient(left,#E6DDDD,#D6D3D3);*/
+}
+
+/*.compHeader td h3
+{
+    margin : 0px;
+}*/
+
+.compImages .itemImg
+{
+    float : none;
+}
+
+.compImages td
+{
+    text-align : center;
+}
