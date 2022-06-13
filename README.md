@@ -1,4 +1,5 @@
 # My_Ebay
+(Academic project worked in a group of 4 people)
 
 A web-based shopping application where users can buy and sell appliances like electronics, cars, fashion apparel, collectibles, sporting goods, 
 digital cameras, baby items, coupons etc. It will be replica of shopping website “Ebay”. It is a java dynamic web project.
